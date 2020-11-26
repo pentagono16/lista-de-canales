@@ -1,0 +1,986 @@
+#EXTINF tvg-name="lista de canales peruanos"
+
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="PE.m3u"
+#EXTINF:-1 tvg-id="116088" tvg-name="Cine Club" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png", Cine Club
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="114052" tvg-name="TVperuanisima" tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png", TVperuanisima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113078" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113069" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110971" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109958" tvg-name="Canal IPE" tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png", Canal IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109809" tvg-name="Vision Noticias Peru" tvg-logo="https://lh3.googleusercontent.com/-x6xRl_mE6J8/Xz8pEV_GYUI/AAAAAAAA4t0/i75PtogKdwMCHzO09Ns0R1o-V6YOiqHkACK8BGAsYHg/s0/2020-08-20.jpg", Vision Noticias Peru
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109808" tvg-name="Vision TV" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png", Vision TV
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109807" tvg-name="Mega TV" tvg-logo="https://lh3.googleusercontent.com/-UnAggwBiNFY/Xz8np73GkBI/AAAAAAAA4tg/JbU6oq05fN0j4jfNv3E2pr3Jn65rKN_lgCK8BGAsYHg/s0/2020-08-20.png", Mega TV
+https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109806" tvg-name="JN19" tvg-logo="https://lh3.googleusercontent.com/-mZYPPkr3lEM/Xz8nJ5U-KDI/AAAAAAAA4tY/eHsF8i1WgCUkVCYv0uwTns3hLJJBKA2vwCK8BGAsYHg/s0/2020-08-20.png", JN19
+https://livestreamingperu.com:8081/diostv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109777" tvg-name="Congreso TV" tvg-logo="https://lh3.googleusercontent.com/-MOUN7g4WMNQ/Xzx4K32zzKI/AAAAAAAA4q0/IKqe7WSGkJE2fFl_EOc6DEcEWLXrhzAswCK8BGAsYHg/s0/2020-08-18.png", Congreso TV
+http://stream.congreso.gob.pe/_hls/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109774" tvg-name="UCI Noticias" tvg-logo="https://lh3.googleusercontent.com/-jrfVQHwUBx4/Xzx0rORBjXI/AAAAAAAA4qg/NiiIK4hjt_8RUGtKV-xMvHgY1ttnwcNMQCK8BGAsYHg/s0/2020-08-18.jpg", UCI Noticias
+http://cdn.win.pe:8080/UCI/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109768" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109767" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109755" tvg-name="Hatun TV Canal 99" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV Canal 99
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109754" tvg-name="+Cumbia Canal 98" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", +Cumbia Canal 98
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109753" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109752" tvg-name="Best Cable Sports" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports
+https://live.siete.us:1991/bestcablesports/bestcablesports/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109751" tvg-name="Best Cable TV" tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png", Best Cable TV
+https://live.siete.us:1991/bestcable/bestcable/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106797" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102609" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106262" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80302" tvg-name="Antares TV" tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV
+https://5949aa132c8fb.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80306" tvg-name="BHTV" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80310" tvg-name="Cultura 24 TV" tvg-logo="https://lh3.googleusercontent.com/-tyIk1Zn_9b4/XoKD7ngkdjI/AAAAAAAAxVU/YqFdEeFnHHEwerBlUrSu4ZiGRuhyh-uKACK8BGAsYHg/s0/2020-03-30.png", Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80313" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png", Hechicera TV
+http://167.114.116.212:1935/tv506/hechicera/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80315" tvg-name="Monterrico TV" tvg-logo="https://lh3.googleusercontent.com/-ubba7Fazm30/XoKEe8ipZUI/AAAAAAAAxVg/eijnSgeRNh0-NC9FCmLK4kGJxVnVjYZwQCK8BGAsYHg/s0/2020-03-30.png", Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80325" tvg-name="Ovacion" tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png", Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80317" tvg-name="Pax TV" tvg-logo="https://lh3.googleusercontent.com/-KiYoJglAEkg/XoKFEMguOHI/AAAAAAAAxVs/FHhV5IZIsWgVYH0l206sX4RIgloT-TJcgCK8BGAsYHg/s0/2020-03-30.png", Pax TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80322" tvg-name="Top Latino TV" tvg-logo="https://lh3.googleusercontent.com/-POiHU6Qb1j4/XoKFS8L9g_I/AAAAAAAAxVw/rJgcu5B-5bQKiZhuql1Uw33jtDLCy6mEACK8BGAsYHg/s0/2020-03-30.png", Top Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80321" tvg-name="TV Cosmos" tvg-logo="https://lh3.googleusercontent.com/-ISWXkSczzHE/XoKFpC-RPNI/AAAAAAAAxV4/WLQ0vY1H4lAodH0D97sUFpZ6V6Xd21W8ACK8BGAsYHg/s0/2020-03-30.png", TV Cosmos
+https://59d39900ebfb8.streamlock.net:443/stream15/stream15/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80326" tvg-name="Unitel" tvg-logo="https://lh3.googleusercontent.com/-a6-jFincYx4/XoKGQM0oJWI/AAAAAAAAxWA/JPXlKZwqMPE26VLeUAg9y0wBYOfSIGotwCK8BGAsYHg/s0/2020-03-30.png", Unitel
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80327" tvg-name="Via Television Tarapoto" tvg-logo="https://lh3.googleusercontent.com/-dcz2x0yjhbI/XoKGofB5-FI/AAAAAAAAxWI/uOpqPe2IAvYhQQB_eagNDahP2rtxSLF-QCK8BGAsYHg/s0/2020-03-30.png", Via Television Tarapoto
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80308" tvg-name="Central TV Chosica" tvg-logo="https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03-30.png", Central TV Chosica
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80324" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bob-esponja-un-he-roe-al-rescate-poster-1573676315.jpg", Bob Esponja Un Heroe al Rescate | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/BobEsponjaUnHeroeAlRescateSRREGIO.NET.mkv#EXTINF:0 group-title="peliculas" tvg-logo="https://larryfire.files.wordpress.com/2020/09/hubiehalloween_vertical_alt_rgb_en-us20200924-6692-k4dpmi.jpg?w=580&h=859", Hubbie Halloween | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Hubie.halloween.2020.1080p-dual-lat-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/10/artemis-fowl-el-mundo-subterraneo.jpg", Artemis Fowl: El mundo subterráneo | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Artemis.fowl.2020.1080p-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/10/evil-eye.jpg", Mal de Ojo | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Evil.eye.2020.1080p-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://elifilms.net/wp-content/uploads/2020/10/pacto-de-fuga-1.jpg", Pacto de Fuga | REGIOFLIX
+https://s1.zplayer.live/hls/,5fxct6d2wsnufvsa6k7u7ag6wpp33aw3cnm3tvdlhmng6fgfabbmdtzav2eq,.urlset/master.m3u8
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:0 group-title="peliculas" tvg-logo="https://elifilms.net/wp-content/uploads/2020/04/sin-escape.jpg", Sin Escape | REGIOFLIX
+https://cheetah.jawcloud.co/hls/baxpup2cmrts7n2gmkfooqpwi4y576ao3x4a7ekcmdao67b4zhkkl6yxcqtq/index-v1-a1.m3u8
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales | REGIOFLIX
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno | REGIOFLIX
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/04/gretel-hansel.jpg", Gretel & Hansel: Un siniestro cuento de hadas | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Gretel.and.hansel.2020.1080p-dual-lat-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/09/mulan.jpg", Mulan 2020 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Mulan.2020.1080p-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/08/fearless.jpg", Fearless | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Fearless.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Proyecto_Power-232352967-large.jpg", Puro Poder | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Project.power.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/474x/40/17/cb/4017cb6d420dbecbec14e8986d2e32db.jpg", Terror en lo Profundo 2 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Deep.blue.sea.3.2020.1080p-dual-lat-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/06/patients-of-a-saint.jpg", Manicomio del Terror | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Patients.of.a.saint.2020.1080p-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hombre-invisible-poster-castellano-1579605046.jpg", El Hombre Invisible  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/The.invisible.man.2020.1080p-srregio.net.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/7a/a3/03/7aa30340d24be809f2eb49203afaf379.jpg", Scoob  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Scoob.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/89/93/14/20072951.jpg", Cazador de Sueños  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Dreamkatcher.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/12/12/25/0815514.jpg", Sonic La Pelicula  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/50010REGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-jkH0werDWpo/Xd7UDi6NOOI/AAAAAAAAapI/utwQuo6yT2QlLK9l0kdFpRF8ME0XXZkWQCLcBGAsYHQ/s1600/bad%2Bboys.jpg", Bad Boys Por Siempre  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Bad.boys.for.life.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/12/aves.jpg?resize=626%2C900&ssl=1", Aves de Presa  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Birds.of.prey.and.the.fantabulous.emancipation.of.one.harley.quinn.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pulpfictioncine.com/download/multimedia.normal.970e7424cc462181.626c6f6f6473686f742d313230333839345f6e6f726d616c2e6a706567.jpeg", Bloodshot  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Bloodshot.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://storage.googleapis.com/revista-instinto-media/2019/10/8f87b6f8-362420id2c_terminatordarkfate_intl_campb_27x40_1sheet_spn.jpg", Terminator Destino Oculto  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Terminator.dark.fate.2019.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/22/00/39/4534283.jpghttps://vignette.wikia.nocookie.net/disneyypixar/images/d/df/Frozen_2_Poster_2.jpg/revision/latest/scale-to-width-down/340?cb=20191209215445&path-prefix=es", Frozen II | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212324&authkey=AGLkRGxFUx18oro
+#EXTINF:0 group-title="peliculas" tvg-logo="https://echosrecordbar.co.za/storage/106172/conversions/106323-large.jpg", Terra Willy Un Planeta Inexplorado | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Terra.willy.unexplored.planet.2019.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/01/10/23/4884537.jpg", Jugando Con Fuego | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Jugando.con.fuego.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/29/10/44/0186539.jpg", Geminis | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/g3m1mn1.m4n.2019.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/01/08/16/54/5502811.jpg", Diamantes En Bruto | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Diamantes.en.bruto.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71xvPKq5FgL._SY450_.jpg", Bohemmian Rapsody | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/b0h3m14nr4ps0dySrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/5e/Poster_11.jpg/revision/latest?cb=20120408193130&path-prefix=es", La Profecia del 11.11.11 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/LaProfeciaDel11.11.11.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/9/99/Zombieland_2_Poster_La.png/revision/latest?cb=20190909163524&path-prefix=es", Zombilandia 2 Tiro de Gracia | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ZombilandiaTiroDeGraciaSrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/d/da/ILYM.jpg/revision/latest?cb=20110324040702&path-prefix=es", Te Amo Brother | REGIOFLIX
+https://ryzen.hlssrv.com/hls_serve_mp4/yYSYjLeZa4yYTuLWirMN.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/frozen_2_p_243_ster_oficial_7aa7c384.jpeg?region=0%2C0%2C770%2C1100", Frozen 2 DVD Screner | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/fr0z3n.2.2019.dvds.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/malefica-poster-1551884950.jpg", Malefica 2 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/m4l3f1c3nt.m1str3ss.0f.3v1l.2019.srregio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.sectorcine.com/wp-content/uploads/2019/12/escuadron-6-poster.jpg", Escuadron 6 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Escuadron6SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://mouse.latercera.com/wp-content/uploads/2019/04/addams-family-poster-1.jpg", La Familia Addams: Halloween | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3.4dd4ms.f4m1ly.2019.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/05/10/45/5824406.jpg", RAMBO 2019 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/r4mb0.l4st.bl00d.2019.hdrip.720p.latinoSrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://miro.medium.com/max/675/1*5KYt7zDm6vFjQYijC6lDrQ.jpeg", Boda Sangrienta | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/boda.sangrienta.sr.regio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/07/30/09/09/0763744.jpg", IT: Capitulo 2 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/IT2.SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poster-joker-2-1567010576.jpg", Joker | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/joksrregiobrs.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/90/12/42/20081902.jpg", Nueve Reinas | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/NueveReinasSrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/comingsoon.com.mx/wp-content/uploads/2019/08/poster-historias-de-miedo-para-contar-en-la-oscuridad.jpg?resize=303%2C450&ssl=1", Historias de Miedo para contar en la Oscuridad | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/sc4ry.st0r13s.t0.t3ll.1n.th3.d4rk.2019.brrs.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.excelsior.com.mx/media//inside-the-note/pictures/2019/03/21/dora_la_exploradora_pelicula_poster.jpg", Dora La Exploradora y la Ciudad Perdida| REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/d0r4.4nd.th3.l0st.c1ty.0.g0ld.2019.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61F9FP1NvSL.jpg", COCO | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/coco.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cartel-el-camino-netflix-1569313372.jpg?resize=480:*", El Camino | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ElCaminoUnapel%C3%ADculadeBreakingBad.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41ZNxjju0XL.jpg", Fast And Furios Hobbs And Shaw | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/f4st.4nd.fur10us.h0bbs.4nd.sh4w.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://regaloseuropa.com/WebRoot/Store14/Shops/0c13511c-26f9-4901-9cf0-c456b0c1e853/5CA6/0414/B799/FAB3/63DE/0A48/3534/0187/Poster_Disney_El_Rey_Leon_Simba.jpg", El Rey Leon 2019 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3.l10n.k1ng.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://d9nvuahg4xykp.cloudfront.net/1000688362882447428/6840842068782473800.jpg", KIN | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/k1n.2018.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-de-lona-vinilica-toy-story-4-D_NQ_NP_638722-MLA31114800027_062019-Q.jpg", Toy Story 4 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/t0y.st0ry.4.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/EAR5XXoXUAcZfts.jpg", Teen Titans Go vs Teen Titans | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/t33n.t1t4ns.g0.vs.t33n.t1t4ns.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/C90UIBXUwAA5lsR.jpg", Mexico Barbaro 2018 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/m3x1c0.b4rb4r0.2018.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.movienco.co.uk/carteles/14800/14865/004.jpg", Una Foto Antes de Morir | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/f0t0.n4.p4my4t.2018.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2019/03/spiderman-lejos-casa.jpg?itok=5Pggz3yG", Spider Man Lejos de Casa | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/sp1d3r.m4n.f4r.fr0m.h0m3.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/emi8atu3/anna-french-movie-poster.jpg?v=1560522294", Anna | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/4nn4.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/19/05/08/16/59/2526525.jpg", Aladino | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/aladin2019SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video113/v4/dc/5c/d8/dc5cd867-e794-0386-6f76-0a4e580a2cfe/pr_source.lsr/268x0w.jpg", Anabelle 3 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/4nn4b3ll3.3.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://posterspy.com/wp-content/uploads/2018/09/Childs-Play.jpg", Childs Play 2019 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ch1lds.pl4y.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.adnradio.cl/images/2019050933969640.jpg", X-MEN Dark Phoenix | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/x.m3n.d4rk.ph03n1x.2019.brrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/08/16/46/4235211.jpg", Godzilla El Rey de los Monstruos | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/g0dz1ll4.k1ng.0f.m0nst3r.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn4.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2019/John_Wick_3_Parabellum/John_wick3_new_keyart_500.jpg", Jhon Wick 3 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/j0hn.w1ck.3.p4b3llum.2019.brrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://prensaescenario.files.wordpress.com/2018/11/la-vida-secreta-de-tus-mascotas-2-poster.jpg?w=505", La Vida Secreta de tus Mascotas 2 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3.s3cr3t.l1f3.0f.p3ts.2.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/uglydolls-187959511-large.jpg", Uglydolls: Extraordinariamente feos | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/uglyd0lls.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/05/a0/6d/05a06df19eb5a96d5d2442c3b2d0d766.jpg", Maestras del Engaño | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3.hustl3.2019.brrs.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2019/04/Rocketman-poster-2.jpg", Rocketman SUB | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/r0k3tm4n.2019.hdrip.720p.subesp.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/01/la-razon-de-estar-contigo-4-646x1024.jpg", La Razon de Estar con Tigo: Un Nuevo Viaje | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/4.d0gs.j0urn3y.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-original-de-cine-avengers-endgame-vengadores-end-game-D_NQ_NP_971781-MLM29887883019_042019-F.jpg", Avengers End Game | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/4v3ng3rs.3ndg4m3.2019.brrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGViZWEwOGItMGZlMC00YzE1LTk5ZWItMGYxYjhhMjBmNDMwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg", Nada Es Privado | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3.gr34t.h4ck.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.revistabrooke.com/wp-content/uploads/2019/06/ni-en-tus-sue%C3%B1os-peli-2019-poster.jpg", Ni En Tus Sueños | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/NiEnSusSue%C3%B1osSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/04/02/13/08/3361614.jpg", Shazam | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/shazam720pSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-curse-of-la-llorona-poster-1550734214.jpg?crop=1xw:1xh;center,top&resize=480:*", La Llorona | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/lalloronaSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-curse-of-la-llorona-poster-1550734214.jpg?crop=1xw:1xh;center,top&resize=480:*", La Llorona SUBTITULADA | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/lalloronaSUBSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/el_gran_asalto_211.jpg", El Gran Asalto | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ElGranAsalto.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/01/27/16/40/3850432.jpg", El Ritual | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ElRitual.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://elfinalde.com/wp-content/uploads/2016/09/k9quViLJvizFReyZAwjqXz7MD2C-683x1024.jpg", Como entrenar a tu Dragon | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/comoentrenaratudragon.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.cinepremiere.com.mx/assets/images/noticias/2014/04-abril/Poster-Dragon.jpg", Como entrenar a tu Dragon 2 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/comoentrenaratudragon2.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://static.posters.cz/image/750/poster/como-entrenar-a-tu-dragon-3-one-sheet-i70043.jpg", Como entrenar a tu Dragon 3 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Comoentrenaratudragon3SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/77721.jpg", Hellboy | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/HellboySRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/a8/d7/f3/a8d7f32bc734d20e82bcd909dea54bcc.jpg", I Love Dogs Una Comedia Sin Malas Pulgas | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/dogdaysSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://flxt.tmsimg.com/assets/p15952868_b_v9_aa.jpg", Zombie a los 17 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/zombieat17SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_.jpg", Misterio a Bordo | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/misterioabordoSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41P8CcVmx0L.jpg", Ong Bak | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/OngBakSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71jOztWX9YL._SL1259_.jpg", Dumbo | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/dumb02019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710M3Z0kIqL._SL1197_.jpg", Detective Picachu | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/DetectivePicachuSRREGIOHDS.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/18/11/15/10/52/3730528.jpg", Parque Magico | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/w0nd3rp4rk2019hdsSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/S_834710-MLA29510175011_022019-O.jpg", A dos Metros de ti | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/f1v3f33t4p4rt2019hdripSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/mi_mascota_es_un_leon.jpg", Mi Mascota Es Un Leon | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/m143tl3l10nbl4nc2018SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/zf2ztida/la-boda-de-mi-mejor-amigo-mexican-movie-poster.jpg", La Boda De Mi Mejor Amigo | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/l4b0d4d3m1m3j0r4m1g02019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.ebayimg.com/images/g/F3QAAOSwF5tbbjWl/s-l300.jpg", Dragon Ball Super Broly | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/dr4g0nb4llsup3rbr0ly2019brrip720platinoV2SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.compucalitv.com/wp-content/uploads/2019/05/batman-tortugas-ninja-2019-hd-1080p-720p-latino-portada.jpg", Batman vs Tortujas Ninja | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/b4tm4nvst33n4g3mut4ntn1nj4turtl3s2019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cholilaonline.com/wp-content/uploads/2019/04/Poster_Cementerio_De_Animales.jpg", Cementerio Maldito 2019 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/p3t.s3m3nt3ry.2019.hc.hdrip.720p.latinoSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/14200/14204/003.jpg", Felix Dia De Tu Muerte 2 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/h4ppyd34thd4ytw02019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-XZblfz92hrE/XDUaih8_-II/AAAAAAAAqQA/M17NCYefJ24NkSk4r4zMByWpvpckfHagwCLcBGAs/s00/Maligno_Poster_2_JPosters.jpg", Maligno | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3pr0d1gySRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.shopify.com/s/files/1/0747/3829/products/mL1886_1024x1024.jpg?v=1535993102", Unfriended Dark Web | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Unfriend.DarkWeb.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-zbz7Esih6WI/W-3mA7q7HnI/AAAAAAAAqI8/WvmQO8T2qMcA_cH79dfElxa0jFLOgM0FgCLcBGAs/s00/No_Mires_Look_Away_Poster_JPosters.jpg", No Mires | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/NoMiresSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_.jpg", Lego Movie 2da Parte | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/LegoMovie2019SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/thvlphez/rendel-finnish-movie-poster.jpg", Rendel | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/rendel.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-3mEI0AVbJPg/WqAsvlJ0RPI/AAAAAAAAodw/Hcvxrhd7lsQCJaBtJhSPNT0EE_P6372YwCLcBGAs/s00/Vedad_O_Reto_Poster_Teaser_Latino_JPosters.jpg", Verdad o Reto | REGIOFLIX
+https://archive.org/download/vorSrRegio/vorSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/e1/ee/09/e1ee09adc205a8d659dd0e8f9ec3aeba.jpg", Aquaman | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Aquaman.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-uIvXL3ptjbA/XAa7UCfWz4I/AAAAAAAAqLI/dNr8LlCmBXAaqkxilVWT1srA2qaBdgjbgCLcBGAs/s00/Cadaver_Poster_2-JPosters.jpg", Cadaver | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/c4d4v3r2018SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/05/14/22/39/1904920.jpg", Pesadilla En El Infierno | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/PesadillaEnElInfierno.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/anxhfrdx/t-34-russian-movie-poster.jpg", T-34 SUBTITULADA | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/T-34.Sub.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/14/18/09/5749412.jpg", Nacido Para Ser Rey | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/NacidoParaSerReySrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/12/03/12/00/1528300.jpg", Glass | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/GlassSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1t8xCe9jwL._SL1500_.jpg", Infinity War | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/InfinityWarSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://elinformanteperu.com/wp-content/uploads/2019/02/Afiche-mani.jpg", El Manicomio La Cuna Del Terror | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ElManicomioLaCunaDelTerrorSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://img.tviso.com/ES/poster/w430/0a/90/0a9095e82c7186dd9edb8902342266b4.jpg", Un Golpe Sobrenatural | REGIOFLIX
+https://archive.org/download/navidad321SrRegio_201904/navidad321SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-lona-vinilica-coco-D_NQ_NP_915189-MLA27017444936_032018-F.jpg", Coco | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/coco.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/yugiohenespanol/images/8/81/Yugioh_Pelicula_Poster_2.png/revision/latest?cb=20151212010332&path-prefix=es", Yu Gi Oh El Lado Oscuro De Las Dimensiones | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Yu-Gi-Oh.El.Lado.Oscuro.de.las.Dimensiones.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/09/37/f1/0937f1747dc79bc6ddc44ff39c4a3043.jpg", Mis Huellas A Casa | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Mis.Huellas.A.Casa.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-de-cine-bumblebee-transformers-john-cena-D_NQ_NP_780296-MLM28802122657_112018-F.jpg", Bumblebee | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Bumblebee.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/22/00/39/4534283.jpg", Cindy La Regia | REGIOFLIX
+https://archive.org/download/gamers_202002/gamers.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro | REGIOFLIX
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 | REGIOFLIX
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 | REGIOFLIX
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://gnula.nu/wp-content/uploads/2019/09/Tod@s_caen_poster_mexico.jpg", Todas Caen | REGIOFLIX
+https://superb.hlssrv.com/hls_serve_mp4/PvR18OORPNa5WCotQueL.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name | REGIOFLIX
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 | REGIOFLIX
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro | REGIOFLIX
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO | REGIOFLIX
+https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990 | REGIOFLIX
+https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | SRREGIO.NET
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | SRREGIO.NET
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso | REGIOFLIX  
+https://bit.ly/2GajoTS
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg", La Leyenda de la Nahuala | REGIOFLIX  
+https://bit.ly/2wBzaYz
+#EXTINF:0 group-title="peliculas" tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino | REGIOFLIX  
+https://bit.ly/2wBG4x8
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion | REGIOFLIX  
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | REGIOFLIX  
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO | REGIOFLIX  
+https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles | REGIOFLIX  
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox | REGIOFLIX  
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus | REGIOFLIX  
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool | REGIOFLIX  
+https://archive.org/download/DeSRREGIO/DeSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente | REGIOFLIX  
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII | REGIOFLIX  
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | REGIOFLIX  
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | REGIOFLIX  
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1 group-title="LATIN AMERICA",CGTN Español (Opt-1)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",CGTN Español (Opt-2)
+http://livefr.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",Frecuencia Musical (Opt-1)
+https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",Frecuencia Musical (Opt-2)
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",MTV (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",RT Español
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",Telemusica
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MEXICO",15TV Sabinas (Opt-1)
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",15TV Sabinas (Opt-2)
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1 group-title="MEXICO",Aprende TV
+https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 6 Morelia
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 10 Cancun (Opt-1)
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 10 Cancun (Opt-2)
+http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 10 Durango
+http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 15 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 15 Fresnillo
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal Catorce
+http://pontismmd.mmdlive.lldns.net/pontismmd/18c15984af7d4ec6ba1a3d13f2263608/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal Once Internacional
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Capacita TV
+https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",CB TV Morelia
+http://streamingcws20.com:1935/cbtv/videocbtv/chunklist_w404614212.m3u8
+#EXTINF:-1 group-title="MEXICO",Ciudad TV (Opt-1)
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Ciudad TV (Opt-2)
+http://23.227.189.81:80/ciudadtv/abr_ciudadtv/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",FOROtv (Opt-1)
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",FOROtv (Opt-2)
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Hidalgo TV
+http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
+#EXTINF:-1 group-title="MEXICO",Ingenio TV
+https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Justicia TV (Opt-1)
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Justicia TV (Opt-2)
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
+#EXTINF:-1 group-title="MEXICO",Irapuato TV
+http://streamingcws20.com:1935/irapuatotv/videoirapuatotv/chunklist_w1996003046_DVR.m3u8
+#EXTINF:-1 group-title="MEXICO",Mexiquense Toluca
+https://5ca9af4645e15.streamlock.net/mexiquense/videomexiquense/FluxusTV.m3u8
+#EXTINF:-1 group-title="MEXICO",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="MEXICO",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",MVM Noticias Oaxaca
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 group-title="MEXICO",Nuestravision Michoacan
+http://189.204.137.189:8888/m3u8/canal6.m3u8
+#EXTINF:-1 group-title="MEXICO",Presumiendo Mexico
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="MEXICO",Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",SQCS Chetumal
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 group-title="MEXICO",Telebachillerato
+https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Teleritmo
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="MEXICO",Telesecundaria
+https://srvstream01.televisioneducativa.gob.mx/hls/telesecundaria.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Telesecundaria Mas
+https://srvstream01.televisioneducativa.gob.mx/hls/telesecundariamas.m3u8
+#EXTINF:-1 group-title="MEXICO",Transmedia TV Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:-1 group-title="MEXICO",TRC TV Campeche
+http://video7.stream.mx:1935/8010/8010/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="MEXICO",Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:-1 group-title="MEXICO",Ultra TV Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:-1 group-title="ARGENTINA",5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1 group-title="ARGENTINA",8 Digital Valle de Uco (Opt-1)
+http://stream02.shockmedia.com.ar:1935/canal2tunuyan/canal2tunuyan/.m3u8
+#EXTINF:-1 group-title="ARGENTINA",8 Digital Valle de Uco (Opt-2)
+https://59537faa0729a.streamlock.net:443/canal2tunuyan/canal2tunuyan/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Aire de Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",America TV
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",ATB TV
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ARGENTINA",BVC Bahia Blanca
+https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Cadena Sudeste TV
+http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 3 Aldea Brasilera
+http://stmv2.srvstm.com/brasil2/brasil2/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 4 Balcarce
+http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 4 La Matanza
+http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 7 Catamarca
+https://59d52c5a5ce5e.streamlock.net:4443/ctv/ctv/chunklist_w248825613.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 7 Santiago del Estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 10 Cordoba (Opt-2)
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 10 Rio Negro (Opt-2)
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 12 Puerto Madryn
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 26 (Opt-1)
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 26 (Opt-2)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal Local Olavarria
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal Provincial San Miguel
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal U Cordoba
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/d7502ff7/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Chacra TV
+http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 group-title="ARGENTINA",CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Conexion Abierta (New!)
+http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
+#EXTINF:-1 group-title="ARGENTINA",CPEtv La Pampa
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Eco TV Tandil
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Inforbahia Bahia Blanca
+http://173.236.10.10:1935/tvinforbahia/tvinforbahia/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",LA 90 FM (New!)
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Litus TV Santa Fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Radio del Aire 89.5 FM La Plata
+http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ARGENTINA",RTN Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Tierramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",TV Universidad Nacional de La Plata
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 group-title="CHILE",Alegria TV
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",AM Canal
+http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="CHILE",Campo Abierto TV Huechuraba
+http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Campus TV
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="CHILE",Canal 2 San Antonio
+http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Canal 5 Puerto Montt
+https://590c5dc5c3271.streamlock.net/luis251/luis251/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Canal 11 Cabrero
+http://play.streaminghd.cl:80/claudio441/claudio441/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Canal 22 Santiago
+http://canal22santiago.cl/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",CDtv
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+#EXTINF:-1 group-title="CHILE",Contivision Constitucion
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Desierto TV
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",El Pinguino TV (Opt-1)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1 group-title="CHILE",El Pinguino TV (Opt-2)
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+#EXTINF:-1 group-title="CHILE",Emol TV
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+#EXTINF:-1 group-title="CHILE",FM Hot Movies (Opt-1)
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#EXTINF:-1 group-title="CHILE",Girovisual TV Valparaiso
+http://movilstream.digitalproserver.com/girovisual/girovisualvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Gracia TV
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Holvoet TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="CHILE",Interradio TV
+https://cdn-jose-1100.ciclano.io:1443/jose-1100/jose-1100/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",ITV Patagonia
+http://unlimited4-cl.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",LTV Canal Renaico
+http://204.12.194.82:1935/ltv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Pandero Music CL
+http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+#EXTINF:-1 group-title="CHILE",Pandero Music Top
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w1822395328_b1500000_sleng.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Pauta
+http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
+#EXTINF:-1 group-title="CHILE",Pintana TV
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Portal Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Quinta TV
+https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Radio Antena Abierta
+https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Radio Congreso Valparaiso
+http://190.107.176.55:1935/live/archi-congreso/chunklist_w810766943.m3u8
+#EXTINF:-1 group-title="CHILE",Radio El Conquistador
+http://eu1.servers10.com:1935/8282/8282/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Radio La Clave
+http://unlimited5-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Radio Maxima 94.9 FM SB
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Radio Polar
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Radio Zero
+http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Rocco TV
+http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Tele 13
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:-1 group-title="CHILE",Teletrak
+http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="CHILE",Television Regional de Chile (Opt-1)
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",Television Regional de Chile (Opt-2)
+http://canal22santiago.cl/Cellular_High/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Temuco TV
+https://593d7fe3c9b0d.streamlock.net/8172/8172/chunks.m3u8
+#EXTINF:-1 group-title="CHILE",TV2 Choapa
+http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",TV5 Linares
+http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="CHILE",TV8 Concepcion
+https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",TV Salud
+http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",TV Senado (Opt-1)
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",TV Senado (Opt-2)
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 group-title="CHILE",TVO San Vicente
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",UTV San Clemente
+http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CHILE",VC Online Santiago
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:-1 group-title="CHILE",VTV Aconcagua (Opt-1)
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",VTV Aconcagua (Opt-2)
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1 group-title="CHILE",VTV Viña del Mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",ZP TV
+https://5cc309e93b721.streamlock.net/8386/8386/playlist.m3u8
+#EXTINF:-1 group-title="ECUADOR",Hechos TV
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 group-title="ECUADOR",TV Manabita
+http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ECUADOR",UCSG (Opt-1)
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 group-title="ECUADOR",UCSG (Opt-2)
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Amordiscos TV
+https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/chunklist_w454440596_b1048000_slES.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Canal 13
+https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Canal CNC Pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",La Super TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Ntv Canal
+https://5c21f7ec1999d.streamlock.net/8038/8038/chunklist_w1940275753.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Ranchenato TV
+http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/chunklist_b1044100_sleng.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Suram TV
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Teleenvigado
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Teleislas (Opt-1)
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Teleislas (Opt-2)
+http://vbox2.cehis.net/live-teleislas/_definst_/mp4:teleislas/chunklist_w1846604063.m3u8
+#EXTINF:-1 group-title="COLOMBIA",UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA",UAO Play +
+https://live-edge-sxb-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8
+#EXTINF:-1 group-title="PERU",America TV
+https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
+#EXTINF:-1 group-title="PERU",Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",BHTV (Opt-1)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",BHTV (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",BHTV (Opt-3)
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:-1 group-title="PERU",Cultura 24 (Opt-1)
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1 group-title="PERU",Cultura 24 (Opt-2)
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8
+#EXTINF:-1 group-title="PERU",Hechicera TV
+http://167.114.116.212:1935/tv506/hechicera/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 group-title="PERU",Radio Sanborja
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Sol TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Top Latino TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1 group-title="PERU",Turbo Mix Radio TV
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:-1 group-title="PERU",TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1 group-title="PERU",TV Peru (Opt-1)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 group-title="PERU",VIA TV Tarapoto
+http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Vision Noticias Peru (Opt-1)
+http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8
+#EXTINF:-1 group-title="PERU",Vision Noticias Peru (Opt-2)
+https://v8.ciclano.io:1443/visionnoticias/_definst_/visionnoticias/chunklist_w1485541251.m3u8
+#EXTINF:-1 group-title="PERU",Vision TV Musica
+http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/playlist.m3u8
+#EXTINF:-1 group-title="URUGUAY",VTV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Farra Play
+http://159.203.148.226/live/farra_low.m3u8
+#EXTINF:-1 group-title="PARAGUAY",RPC
+http://174.138.118.252/live/canal13stream_src.m3u8
+#EXTINF:-1 group-title="PARAGUAY",TVS Encarnacion
+http://201.217.3.212/TV/tvs/chunklist_w1493272816.m3u8
+#EXTINF:-1 group-title="COSTA RICA",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Anexion TV 36
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Canal UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Guapiles TV
+http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Multimedios CR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Telered
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",TicaVision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",TV Sur 14
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Acento TV
+http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Ame 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Bellavision 8
+http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Bonao TV Canal 12
+http://ss1.domint.net:2226/btv_str/bonao/chunklist_w482371085.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Buena TV Canal 14
+https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Canal 25 Santiago
+https://ss1.domint.net:3108/c25_str/canal25/master.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Canal del Sol 65
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Carivision
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Cinevision 19
+http://cinevision01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Color Vision 9
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Digital Vision 63
+http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Faro Vision
+http://184.173.181.2:1935/8060/8060/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",GH Television
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Info TDN
+http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Luna TV
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Onda TV 10
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Orbit Cable
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Peravia Vision 8
+http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Puñal TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Romana TV 42
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Super TV 55
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telefuturo 23
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telemilenio Canal 50
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telenord 8 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telenord 10 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telenord 10 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telenord 12 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telenord 12 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telenovisa 43
+http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Teleradio America 45
+http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1884577868.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telesistema 11
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Television del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",TV Montaña 10
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",TV Plata 3
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",TVS Canal 22
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Vision 3000
+http://ss1.domint.net:2202/v3_str/v3000/chunklist_w223748530.m3u8
+#EXTINF:-1 group-title="NICARAGUA",Canal 2 (Opt-1)
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA",Canal 2 (Opt-3)
+http://162.244.81.181:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",TVES
+http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",TVO Canal 23 (Opt-1)
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",TVO Canal 23 (Opt-2)
+https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA",Canal Antigua (New!)
+http://143.208.59.12:1935/CanalAntigua/myStream/chunklist.m3u8
+#EXTINF:-1 group-title="PANAMA",NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 group-title="PANAMA",SerTV
+https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
+#EXTINF:-1 group-title="HONDURAS",Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:-1 group-title="HONDURAS",Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 group-title="HONDURAS",Canal 5 El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:-1 group-title="HONDURAS",Q'hubo TV (New!)
+http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
+#EXTINF:-1 group-title="HONDURAS",Sercano TV (New!)
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
+#EXTINF:-1 group-title="HONDURAS",SiTV
+http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
+#EXTINF:-1 group-title="HONDURAS",Telecadena 7/4
+https://trinity-lh.akamaihd.net/i/TelevicentroLive3_d@687450/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="HONDURAS",Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:-1 group-title="HONDURAS",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 group-title="HONDURAS",Todo Deportes TV
+http://rtmp.zafra.cloud:1935/securelive/tdcampeones20161/playlist.m3u8
+#EXTINF:-1 group-title="HONDURAS",TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:-1 group-title="HONDURAS",UTV UNAH
+https://live-utv.unah.edu.hn/web/salida.m3u8
+#EXTINF:-1 group-title="VENEZUELA",Cadena Digital 100.7 FM Caracas
+http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist.m3u8
+#EXTINF:-1 group-title="VENEZUELA",Corazon Llanero
+http://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/fluxustv.m3u8
+#EXTINF:-1 group-title="VENEZUELA",TeleSUR (Opt-1)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="VENEZUELA",TeleSUR (Opt-2)
+https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="VENEZUELA",TeleSUR (Opt-3)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 group-title="VENEZUELA",Televisora de Oriente
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8
+#EXTINF:-1 group-title="VENEZUELA",Vepaco TV (Opt-1)
+http://edge.wms28.lorini.net/tvepaco/tvepaco/playlist.m3u8
+#EXTINF:-1 group-title="VENEZUELA",Vepaco TV (Opt-2)
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:-1 group-title="BOLIVIA",ATB (Opt-1)
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 group-title="BOLIVIA",ATB (Opt-2)
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=658130495
+#EXTINF:-1 group-title="BOLIVIA",Bolivia Deportes TV
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA",Bolivia TV (New!)
+https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/chunklist.m3u8
+#EXTINF:-1 group-title="BOLIVIA",Bolivision
+http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
+#EXTINF:-1 group-title="BOLIVIA",Catolica TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA",Mega TV
+http://hdp2.imd.la:1935/megatv/megatv/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA",Red Uno
+http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
+#EXTINF:-1 group-title="BOLIVIA",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 group-title="EQUATORIAL GUINEA",TVGE Int.
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ROMANIA",6TV (Opt-2)
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="ROMANIA",6TV (Opt-3)
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="ROMANIA",Actualitatea TV (Opt-1)
+http://46.214.146.46:81/tv4/playlist.m3u8
+#EXTINF:-1 group-title="ROMANIA",Actualitatea TV (Opt-2)
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:-1 group-title="deportes"
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606372854/ei/lvm-X_qMFMbPwgSZ-YqYDg/ip/2001%3A1388%3A2f09%3Ad43a%3A6c68%3A97a5%3A1bd0%3Aa267/id/XY77CFWOn-g.1/source/yt_live_broadcast/requiressl/yes/tx/23952456/txs/23952454%2C23952455%2C23952456/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/pe/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgAtWsAiqH_IjXcqhcUJZGa0tB17FAM_YkO6nq66h5lwwCIQC2XBjklJIULJf_m-5Iwdwrq_JDBD8i_41qzpEfzJZ6Xg%3D%3D/file/index.m3u8
+
+
+
+
